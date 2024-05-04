@@ -24,3 +24,8 @@ inefficient.
 
 What is the big $\Theta$ complexity of your implementation? Add your
 answer, including your reasoning, to this markdown file.
+
+Answer: The $\Theta$ time complexity of my implementation would be $\Theta(V * E)$.
+
+Sources: https://www.youtube.com/watch?v=_lHSawdgXpI
+
